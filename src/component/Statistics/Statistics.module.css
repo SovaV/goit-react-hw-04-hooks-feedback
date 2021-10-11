@@ -1,0 +1,7 @@
+.box {
+  background: rgb(156, 248, 63);
+  border-radius: 10px;
+}
+.item {
+  margin-bottom: 5px;
+}
